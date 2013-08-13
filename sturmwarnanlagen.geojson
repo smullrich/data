@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Neusiedl", 
+        "name": "Neusiedl",
         "description": "Mast (6m) auf der Mole im Südhafen"
       },
       "geometry": {
@@ -14,7 +14,8 @@
           47.92678537097428
         ]
       }
-    }, {
+    },
+    {
       "type": "Feature",
       "properties": {
         "name": "Weiden",
@@ -153,6 +154,33 @@
           47.91620901340048
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joiser Bucht",
+        "description": "Beidl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.808738708496094,
+          47.92554522341879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liegplatz 49er"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.838001608848572,
+          47.927676820992424
+        ]
+      }
     }
- ]
+  ]
 }
